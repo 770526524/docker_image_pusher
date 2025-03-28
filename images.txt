@@ -8,3 +8,4 @@ alpine
 python:alpine3.19
 sagikazarmark/dvwa
 acgpiano/sqli-labs
+solr
